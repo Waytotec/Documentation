@@ -1,7 +1,7 @@
 
 <h1 align="left">
   🚀 Waytotec.ControlSystem
-  <a href="./Manual.md" style="float:right; font-size:14px;">📖 Manual 보기</a>
+  <a href="https://waytotec.github.io/Documentation/Manual.html" target="_blank" style="float:right; font-size:24px;">📖 Manual 보기</a>
 </h1>
 
 WPF 기반의 디바이스 통합 제어 및 모니터링 시스템입니다.  
@@ -104,4 +104,5 @@ Visual Studio에서 `Waytotec.ControlSystem.sln` 열기
 ## 🏢 About Waytotec
 
 이 프로젝트는 **Waytotec**에서 개발하는 산업용 통합 디바이스 제어 시스템입니다.
+
 
