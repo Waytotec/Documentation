@@ -1,9 +1,4 @@
 
-<style>
-  /* Cayman 테마: 상단 배너/타이틀 숨김 */
-  .page-header { display: none !important; }
-</style>
-
 <h1 align="left">
   🚀 Waytotec.ControlSystem
   <a href="https://waytotec.github.io/Documentation/Manual.html" target="_blank" style="float:right; font-size:24px;">📖 Manual 보기</a>
@@ -109,6 +104,7 @@ Visual Studio에서 `Waytotec.ControlSystem.sln` 열기
 ## 🏢 About Waytotec
 
 이 프로젝트는 **Waytotec**에서 개발하는 산업용 통합 디바이스 제어 시스템입니다.
+
 
 
 
