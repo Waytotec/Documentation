@@ -1,5 +1,8 @@
 
-# 🚀 Waytotec.ControlSystem
+<h1 align="left">
+  🚀 Waytotec.ControlSystem
+  <a href="./Manual.md" style="float:right; font-size:14px;">📖 Manual 보기</a>
+</h1>
 
 WPF 기반의 디바이스 통합 제어 및 모니터링 시스템입니다.  
 카메라, 비상벨, 전광판 등 다양한 장비를 실시간으로 제어하고 상태를 시각적으로 확인할 수 있도록 설계되었습니다.
@@ -101,3 +104,4 @@ Visual Studio에서 `Waytotec.ControlSystem.sln` 열기
 ## 🏢 About Waytotec
 
 이 프로젝트는 **Waytotec**에서 개발하는 산업용 통합 디바이스 제어 시스템입니다.
+
