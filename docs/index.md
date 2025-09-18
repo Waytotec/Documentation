@@ -1,7 +1,7 @@
 
 <h1 align="left">
-  🚀 Waytotec.ControlSystem
-  <a href="https://waytotec.github.io/Documentation/Manual.html" target="_blank" style="float:right; font-size:23px;">📖 Manual 보기</a>
+  🚀 Cam Manager
+  <a href="https://waytotec.github.io/Documentation/Manual.html" target="_blank" style="float:right; font-size:18px;">📖 Manual 보기</a>
 </h1>
 
 WPF 기반의 디바이스 통합 제어 및 모니터링 시스템입니다.  
