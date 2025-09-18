@@ -1,3 +1,5 @@
 # 📖 Waytotec Documentation
 ## 1. CamManager Documentation
-* https://waytotec.github.io/Documentation/
+* <a href="https://waytotec.github.io/Documentation" target="_blank" style="float:right; font-size:24px;">Cam Manager</a>
+
+  
