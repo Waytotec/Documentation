@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: ""        # 큰 타이틀 제거용
+description: ""  # 서브텍스트 제거
 
 include:
   - assets/css
