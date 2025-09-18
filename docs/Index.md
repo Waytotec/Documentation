@@ -48,7 +48,6 @@ Waytotec.ControlSystem/
 - MVVM 아키텍처
 - Dependency Injection (Microsoft.Extensions.DependencyInjection)
 - Reactive UI 지원 (비동기 Task 기반)
-- 향후 [UNO Platform](https://platform.uno/)으로 크로스 플랫폼 확장 예정
 
 ---
 
