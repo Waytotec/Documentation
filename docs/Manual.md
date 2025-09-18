@@ -1,4 +1,4 @@
-## 📋 목차
+## 📋 Cam Manager 목차
 - [소개](#소개)
 - [주요 기능](#주요-기능)
 - [시작하기](#시작하기)
@@ -164,5 +164,6 @@ Waytotec Control System은 네트워크 카메라를 효율적으로 관리하�
 - **개발사**: Waytotec Co., Ltd.
 
 ---
+
 
 *Copyright © 2024 Waytotec. All rights reserved.*
